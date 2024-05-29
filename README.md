@@ -1,6 +1,7 @@
 ### Hi there 👋
 <a href="https://github.com/Voyagerbr">
   <img src="https://github-readme-stats.vercel.app/api?username=VoyagerBR"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voyagerbr&layout=compact&theme=dark"/>
 </a>
 
 <!--
